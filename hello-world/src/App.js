@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
 
-      <Counter/>
+      {/* <Counter/> */}
 
       {/* <Message/> */}
 
@@ -28,6 +28,11 @@ function App() {
       <Welcome name="Daniel" profession="Developer"/>
       <Welcome name="Maria" profession="Software Engineer"/>
       <Welcome name="Carlos" profession="UI Designer"/> */}
+
+      {/* <Greet name="Daniel" profession="Developer"/> */}
+
+      <Welcome name="Daniel" profession="Developer"/>
+
     </div>
   )
 }
