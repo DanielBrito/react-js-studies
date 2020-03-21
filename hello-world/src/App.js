@@ -1,13 +1,13 @@
-import React, {Component} from 'react';
+import React, {Component, Fragment} from 'react';
 import './App.css';
-import LifecycleA from './components/LifecycleA';
+import FragmentDemo from './components/FragmentDemo';
 
 class App extends Component {
 
     render(){
         return(
             <div className="App">
-                <LifecycleA/>
+                <FragmentDemo/>
             </div>
         )
     }
