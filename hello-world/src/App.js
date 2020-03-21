@@ -1,6 +1,6 @@
-import React, {Component} from 'react';
+import React, {Component} from 'react'
 import './App.css';
-import Parent from './components/Parent';
+import Parent from './components/Parent'
 
 class App extends Component {
 
