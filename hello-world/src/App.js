@@ -1,30 +1,16 @@
 import React, { Component } from 'react'
 import './App.css'
-import ClickCounterTwo from './components/ClickCounterTwo'
-import HoverCounterTwo from './components/HoverCounterTwo'
-import User from './components/User'
-import CounterTwo from './components/CounterTwo'
+import ComponentC from './components/ComponentC.js'
+import { UserProvider } from './components/userContext'
 
 class App extends Component {
 
     render() {
         return (
             <div className="App">
-                {/* <ClickCounterTwo/>
-                <HoverCounterTwo/>
-                <User render={ (isLoggedIn) => isLoggedIn ? 'Welcome, Daniel' : 'Welcome, Guest'}/> */}
-
-                <CounterTwo>
-                    {(count, incrementCount) => (
-                        <ClickCounterTwo count={count} incrementCount={incrementCount}/>
-                    )}
-                </CounterTwo>
-
-                <CounterTwo>
-                    {(count, incrementCount) => (
-                        <HoverCounterTwo count={count} incrementCount={incrementCount}/>
-                    )}
-                </CounterTwo>
+                <UserProvider value="Daniel">
+                    <ComponentC/>
+                </UserProvider>
             </div>
         )
     }
