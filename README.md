@@ -7,3 +7,5 @@
 [Controlando autenticação em rotas no ReactJS](https://www.youtube.com/watch?v=sYe4r8WXGQg)
 
 [Theme Switcher com ReactJS e nova Context API](https://www.youtube.com/watch?v=oDgxUodLwGU)
+
+[Selectors no Redux utilizando reselect](https://www.youtube.com/watch?v=3GpRg-PdbEU)
