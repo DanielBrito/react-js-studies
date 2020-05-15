@@ -9,3 +9,5 @@
 [Theme Switcher com ReactJS e nova Context API](https://www.youtube.com/watch?v=oDgxUodLwGU)
 
 [Selectors no Redux utilizando reselect](https://www.youtube.com/watch?v=3GpRg-PdbEU)
+
+[Organizando o Redux com Duck Pattern e Redux Sauce](https://www.youtube.com/watch?v=q-If9n-tUyA)
