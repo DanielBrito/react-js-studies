@@ -13,3 +13,5 @@
 [Organizando o Redux com Duck Pattern e Redux Sauce](https://www.youtube.com/watch?v=q-If9n-tUyA)
 
 [Conectando o React Router DOM ao Redux no ReactJS](https://www.youtube.com/watch?v=khaFn1pnDtw)
+
+[Style guides JavaScript com ESLint, Prettier e EditorConfig](https://www.youtube.com/watch?v=TI4v4Y8yRjw)
