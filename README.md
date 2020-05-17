@@ -11,3 +11,5 @@
 [Selectors no Redux utilizando reselect](https://www.youtube.com/watch?v=3GpRg-PdbEU)
 
 [Organizando o Redux com Duck Pattern e Redux Sauce](https://www.youtube.com/watch?v=q-If9n-tUyA)
+
+[Conectando o React Router DOM ao Redux no ReactJS](https://www.youtube.com/watch?v=khaFn1pnDtw)
