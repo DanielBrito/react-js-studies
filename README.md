@@ -15,3 +15,5 @@
 [Conectando o React Router DOM ao Redux no ReactJS](https://www.youtube.com/watch?v=khaFn1pnDtw)
 
 [Style guides JavaScript com ESLint, Prettier e EditorConfig](https://www.youtube.com/watch?v=TI4v4Y8yRjw)
+
+[Desvendando o Redux na prática](https://www.youtube.com/watch?v=u99tNt3TZf8)
