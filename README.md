@@ -17,3 +17,5 @@
 [Style guides JavaScript com ESLint, Prettier e EditorConfig](https://www.youtube.com/watch?v=TI4v4Y8yRjw)
 
 [Desvendando o Redux na prática](https://www.youtube.com/watch?v=u99tNt3TZf8)
+
+[Utilizando Styled Components (CSS-in-JS)](https://www.youtube.com/watch?v=R3S8DEzEn6s)
