@@ -22,4 +22,4 @@
 
 [TypeScript com ReactJS, Redux e Saga](https://www.youtube.com/watch?v=OXxul6AvXNs)
 
-[React Hooks + Redux](https://www.youtube.com/watch?v=7L7MhxjI4PE)
+[Utilizando React Hooks no Redux](https://www.youtube.com/watch?v=7L7MhxjI4PE)
