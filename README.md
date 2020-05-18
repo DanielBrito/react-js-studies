@@ -21,3 +21,5 @@
 [Utilizando Styled Components (CSS-in-JS)](https://www.youtube.com/watch?v=R3S8DEzEn6s)
 
 [TypeScript com ReactJS, Redux e Saga](https://www.youtube.com/watch?v=OXxul6AvXNs)
+
+[React Hooks + Redux](https://www.youtube.com/watch?v=7L7MhxjI4PE)
