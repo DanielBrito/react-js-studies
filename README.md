@@ -23,3 +23,5 @@
 [TypeScript com ReactJS, Redux e Saga](https://www.youtube.com/watch?v=OXxul6AvXNs)
 
 [React Hooks no Redux](https://www.youtube.com/watch?v=7L7MhxjI4PE)
+
+[Utilizando o Hook do useEffect](https://www.youtube.com/watch?v=jcc9T-5inrk)
