@@ -35,3 +35,5 @@
 :page_facing_up: [How to Use the useContext Hook in React](https://upmostly.com/tutorials/how-to-use-the-usecontext-hook-in-react)
 
 :page_facing_up: [React’s useCallback and useMemo Hooks By Example](https://nikgrozev.com/2019/04/07/reacts-usecallback-and-usememo-hooks-by-example/)
+
+:page_facing_up: [Understanding the React useReducer Hook](https://alligator.io/react/usereducer/)
