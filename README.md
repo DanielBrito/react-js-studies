@@ -1,4 +1,8 @@
-# Available at
+# Fundamental concepts
+
+:rocket: Each one of these examples is a step in order for me to achieve proficiency while using ReactJS on my personal and professional projects.
+
+## Available at
 
 [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 
