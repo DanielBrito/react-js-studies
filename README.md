@@ -31,3 +31,5 @@
 [Utilizando o Hook do useEffect](https://www.youtube.com/watch?v=jcc9T-5inrk)
 
 [React Hooks com TypeScript](https://www.youtube.com/watch?v=GOB-lawExXc)
+
+[How to Use the useContext Hook in React](https://upmostly.com/tutorials/how-to-use-the-usecontext-hook-in-react)
