@@ -25,3 +25,5 @@
 [React Hooks no Redux](https://www.youtube.com/watch?v=7L7MhxjI4PE)
 
 [Utilizando o Hook do useEffect](https://www.youtube.com/watch?v=jcc9T-5inrk)
+
+[React Hooks com TypeScript](https://www.youtube.com/watch?v=GOB-lawExXc)
