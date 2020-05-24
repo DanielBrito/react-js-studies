@@ -37,3 +37,5 @@
 :page_facing_up: [React’s useCallback and useMemo Hooks By Example](https://nikgrozev.com/2019/04/07/reacts-usecallback-and-usememo-hooks-by-example/)
 
 :page_facing_up: [Understanding the React useReducer Hook](https://alligator.io/react/usereducer/)
+
+:film_strip: [Tema light/dark com React, Styled Components e TypeScript](https://www.youtube.com/watch?v=ngVU74daJ8Y)
