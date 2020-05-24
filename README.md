@@ -41,3 +41,5 @@
 :film_strip: [Utilizando React.memo](https://www.youtube.com/watch?v=sBA_SDhIPqQ)
 
 :film_strip: [Formulários no ReactJS com Unform](https://www.youtube.com/watch?v=sBA_SDhIPqQ)
+
+:film_strip: [TypeScript de forma prática](https://www.youtube.com/watch?v=0mYq5LrQN1s)
