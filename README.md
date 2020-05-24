@@ -39,3 +39,5 @@
 :page_facing_up: [Understanding the React useReducer Hook](https://alligator.io/react/usereducer/)
 
 :film_strip: [Tema light/dark com React, Styled Components e TypeScript](https://www.youtube.com/watch?v=ngVU74daJ8Y)
+
+:film_strip: [React Router 6.0](https://www.youtube.com/watch?v=G7hHdcW4kQY)
