@@ -1,6 +1,6 @@
 # Fundamental concepts
 
-:rocket: Each one of these contents is a step in order for me to achieve proficiency while using ReactJS on my personal and professional projects.
+:rocket: Each one of these examples is a step in order for me to achieve better results while using ReactJS on my personal and professional projects.
 
 ## Available at
 
@@ -41,3 +41,5 @@
 :film_strip: [Tema light/dark com React, Styled Components e TypeScript](https://www.youtube.com/watch?v=ngVU74daJ8Y)
 
 :film_strip: [React Router 6.0](https://www.youtube.com/watch?v=G7hHdcW4kQY)
+
+:film_strip: [Utilizando React.memo](https://www.youtube.com/watch?v=sBA_SDhIPqQ)
