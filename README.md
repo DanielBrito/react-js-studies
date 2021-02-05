@@ -9,3 +9,8 @@ These examples cover different aspects of several development tools and concepts
 - Redux
 - Firebase
 - Styled Components
+
+## :rocket: Other Projects
+
+- [Ecoleta](https://github.com/DanielBrito/ecoleta-nlw-rocketseat)
+- [Marioplan](https://github.com/DanielBrito/marioplan)
