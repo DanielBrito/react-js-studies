@@ -10,7 +10,15 @@ These examples cover different aspects of several development tools and concepts
 - Firebase
 - Styled Components
 
-## :rocket: Other Projects
+## :rocket: Projects
 
-- [Ecoleta](https://github.com/DanielBrito/ecoleta-nlw-rocketseat)
-- [Marioplan](https://github.com/DanielBrito/marioplan)
+- Personal:
+
+ 	- [Home](https://danielbrito.github.io/home/)
+ 	- [Fire Tasks](https://github.com/DanielBrito/fire-tasks)
+ 	- [PolymApp](https://github.com/DanielBrito/polymapp)
+
+- Tutorials:
+
+	- [Ecoleta](https://github.com/DanielBrito/ecoleta-nlw-rocketseat)
+	- [Marioplan](https://github.com/DanielBrito/marioplan)
