@@ -9,6 +9,7 @@ These examples cover different aspects of several development tools and concepts
 - Redux
 - Firebase
 - Styled Components
+- Next.js
 
 ## :rocket: Projects
 
