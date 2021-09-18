@@ -18,6 +18,7 @@ These examples cover different aspects of several development tools and concepts
  	- [Home](https://danielbrito.github.io/home/)
  	- [Fire Tasks](https://github.com/DanielBrito/fire-tasks)
  	- [PolymApp](https://github.com/DanielBrito/polymapp)
+ 	- [Front-end Development Libraries (freeCodeCamp)](#)
 
 - Tutorials:
 
