@@ -15,12 +15,16 @@ These examples cover different aspects of several development tools and concepts
 
 - Personal:
 
- 	- [Home](https://danielbrito.github.io/home/)
- 	- [Fire Tasks](https://github.com/DanielBrito/fire-tasks)
- 	- [PolymApp](https://github.com/DanielBrito/polymapp)
- 	- [Front-end Development Libraries (freeCodeCamp)](#)
+  - [Home](https://danielbrito.github.io/home/)
+  - [Fire Tasks](https://github.com/DanielBrito/fire-tasks)
+  - [PolymApp](https://github.com/DanielBrito/polymapp)
+  - [Front-end Development Libraries (freeCodeCamp)](#)
 
 - Tutorials:
 
-	- [Ecoleta](https://github.com/DanielBrito/ecoleta-nlw-rocketseat)
-	- [Marioplan](https://github.com/DanielBrito/marioplan)
+  - [Ecoleta](https://github.com/DanielBrito/ecoleta-nlw-rocketseat)
+  - [Marioplan](https://github.com/DanielBrito/marioplan)
+
+## :toolbox: Useful Resources
+
+- [useHooks](https://github.com/uidotdev/usehooks)
