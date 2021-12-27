@@ -11,6 +11,10 @@ These examples cover different aspects of several development tools and concepts
 - Styled Components
 - Next.js
 
+## 📚 Books
+
+- [How to Code in ReactJS](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) (Digital Ocean)
+
 ## :rocket: Projects
 
 - Personal:
