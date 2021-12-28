@@ -3,7 +3,7 @@ import "firebase/firebase-firestore";
 
 // Set your configuration:
 var firebaseConfig = {
-  apiKey: "..."
+  apiKey: "...",
   authDomain: "...",
   databaseURL: "...",
   projectId: "...",
