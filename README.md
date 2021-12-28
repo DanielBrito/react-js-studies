@@ -2,7 +2,7 @@
 
 These examples cover different tools and concepts related to ReactJS from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
-## 📑 Learning Topics
+## 📑 Topics
 
 - JSX
 - Hooks
@@ -19,10 +19,8 @@ These examples cover different tools and concepts related to ReactJS from my [se
 
 - [Home](https://danielbrito.github.io/home/)
 - [Fire Tasks](https://github.com/DanielBrito/fire-tasks)
-- [PolymApp](https://github.com/DanielBrito/polymapp)
 - [Ecoleta](https://github.com/DanielBrito/ecoleta-nlw-rocketseat)
-- [Marioplan](https://github.com/DanielBrito/marioplan)
 
-## :toolbox: Resources
+## :card_file_box: Resources
 
 - [useHooks](https://github.com/uidotdev/usehooks)

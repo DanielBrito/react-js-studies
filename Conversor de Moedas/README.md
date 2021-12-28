@@ -1,3 +1,9 @@
-# Disponível em:
+# Conversor de Moedas
 
-[ReactJS - Criando um App do Zero (Programador BR)](https://www.youtube.com/watch?v=tbLziJchz48)
+## Recurso
+
+- [CurrencyConverterApi](https://www.currencyconverterapi.com/)
+
+## Prévia
+
+![Prévia](preview.png)
