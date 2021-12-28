@@ -1,14 +1,14 @@
-# :star: Marioplan
+# Marioplan
 
 A simple project management tool with authentication and cloud functions.
 
-## :toolbox: Development Tools
+## Tools
 
 - ReactJS
 - Redux
 - Firestore
 
-## :eyes: Screen Samples
+## Previews
 
 ### Dashboard
 
