@@ -1,0 +1,76 @@
+html{
+    min-height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(./assets/mario-bg.png) no-repeat;
+    background-size: 100%, 100%;
+    background-position: bottom;
+    background-color: #95e8f3;
+    min-height: 100%;
+}
+
+form{
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.2);
+}
+
+form button, form h5{
+    margin: 5px 0px;
+    font-weight: bolder;
+}
+
+input[type=text]:not(.browser-default):focus:not([readonly]),
+input[type=email]:not(.browser-default):focus:not([readonly]),
+input[type=password]:not(.browser-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]){
+    border-color: #ec407a;
+    box-shadow: none;
+}
+
+#star {
+    width: 40px;
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: text-bottom;
+}
+
+#signIn, #signUp, #create-project, #project-detail{
+    max-width: 500px;
+}
+
+#project-card, #notification-section{
+    border-radius: 10px;
+}
+
+#notifications-container{
+    max-width: 350px;
+}
+
+.nav-item{
+    font-weight: bold;
+}
+
+#nav-item{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.white.center{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.card.z-depth-0.project-summary{
+    border-radius: 10px;
+}
+
+.login-status, .signup-status, .card-title{
+    font-weight: bold;
+}
