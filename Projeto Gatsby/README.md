@@ -1,3 +1,7 @@
-# Disponível em
+# Hello Gatsby
 
-[Configurando projeto Gatsby (Rocketseat)](https://www.youtube.com/watch?v=Z88SWjN6Yj0)
+## Previews
+
+![Home](preview_home.png)
+
+![About](preview_about.png)

@@ -15,8 +15,8 @@ const List = styled.ul`
 const TodoList = () => (
     <List>
         <li>Fazer café</li>
-        <li>Entrar na comunidade da Rocketseat</li>
         <li>Estudar ReactJS</li>
+        <li>Estudar Styled Components</li>
     </List>
 )
 

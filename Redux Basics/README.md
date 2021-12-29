@@ -1,4 +1,4 @@
-# React HTTP
+# Redux Basics
 
 ## Resource
 

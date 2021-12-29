@@ -1,3 +1,9 @@
-# Available at:
+# Recipe App
 
-[Build a Recipe App with ReactJS (Dev Ed)](https://www.youtube.com/watch?v=U9T6YkEDkMo)
+## Resource
+
+- [Edaman API](https://api.edamam.com/)
+
+## Preview
+
+![Preview](preview.png)
