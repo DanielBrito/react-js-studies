@@ -10,6 +10,7 @@ These experiments cover different tools and concepts related to ReactJS from my 
 - Firebase
 - Styled Components
 - Next.js
+- GraphQL
 
 ## 📚 Books
 
@@ -24,3 +25,4 @@ These experiments cover different tools and concepts related to ReactJS from my 
 ## :card_file_box: Resources
 
 - [useHooks](https://github.com/uidotdev/usehooks)
+
