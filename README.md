@@ -11,6 +11,7 @@ These experiments cover different tools and concepts related to ReactJS from my 
 - Styled Components
 - Next.js
 - GraphQL
+- Apollo
 
 ## 📚 Books
 
