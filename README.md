@@ -10,8 +10,6 @@ These experiments cover different tools and concepts related to ReactJS from my 
 - Firebase
 - Styled Components
 - Next.js
-- GraphQL
-- Apollo
 
 ## 📚 Books
 
